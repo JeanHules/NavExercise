@@ -47,9 +47,10 @@ height: 570px;
 
 @media (max-width: 767px){
 
-.container{
-	width: 90%;
-	margin: 0 auto;
+.container {
+width: auto;
+padding: 0 20px;
+position: relative;
 }
 	
 html{
